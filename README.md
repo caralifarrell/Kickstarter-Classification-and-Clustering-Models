@@ -1,1 +1,1 @@
-# Kickstarter-Classification-and-Clustering-Models
+# Kickstarter-ML-Models
