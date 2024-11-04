@@ -1,5 +1,5 @@
 # Kickstarter-ML-Models
-
+*Project as part of INSY 446 - Data Mining for Business Analytics, McGill University, Desautels Faculty of Management for Fall 2023*
 ## The Client
 The hypothetical client is focused on understanding the factors influencing the success or failure of Kickstarter projects through predictive modeling and clustering analysis.
 
